@@ -1,416 +1,1011 @@
-#EXTINF:-1,USA: ABC NEWS HD
-http://leaderpro.pt:25461/live/lm/lm/28123.ts
-#EXTINF:-1,USA: ABC HD
-http://leaderpro.pt:25461/live/lm/lm/28122.ts
-#EXTINF:-1,USA: A&E HD
-http://leaderpro.pt:25461/live/lm/lm/28136.ts
-#EXTINF:-1,USA: AFN NEWS
-http://leaderpro.pt:25461/live/lm/lm/28204.ts
-#EXTINF:-1,USA: AFN MOVIE
-http://leaderpro.pt:25461/live/lm/lm/28203.ts
-#EXTINF:-1,USA: AFN PRIME PACIFIC
-http://leaderpro.pt:25461/live/lm/lm/28206.ts
-#EXTINF:-1,USA: AFN PRIME ATLANTIC
-http://leaderpro.pt:25461/live/lm/lm/28205.ts
-#EXTINF:-1,USA: AFN PULSE
-http://leaderpro.pt:25461/live/lm/lm/28207.ts
-#EXTINF:-1,USA: AFN SPORTS 2
-http://leaderpro.pt:25461/live/lm/lm/28210.ts
-#EXTINF:-1,USA: AFN SPORTS
-http://leaderpro.pt:25461/live/lm/lm/28209.ts
-#EXTINF:-1,USA: AFN SPECTRUM
-http://leaderpro.pt:25461/live/lm/lm/28208.ts
-#EXTINF:-1,USA: AMERICAN HEROES CHANNEL
-http://leaderpro.pt:25461/live/lm/lm/28264.ts
-#EXTINF:-1,USA: AMC HD
-http://leaderpro.pt:25461/live/lm/lm/28099.ts
-#EXTINF:-1,USA: ATN USA
-http://leaderpro.pt:25461/live/lm/lm/28232.ts
-#EXTINF:-1,USA: ANIMAL PLANET HD
-http://leaderpro.pt:25461/live/lm/lm/28182.ts
-#EXTINF:-1,USA: NBA TV HD
-http://leaderpro.pt:25461/live/lm/lm/28113.ts
-#EXTINF:-1,USA: Sports USA HD
-http://leaderpro.pt:25461/live/lm/lm/28211.ts
-#EXTINF:-1,USA: Bloomberg TV
-http://leaderpro.pt:25461/live/lm/lm/28165.ts
-#EXTINF:-1,USA: Bloomberg Europe
-http://leaderpro.pt:25461/live/lm/lm/28180.ts
-#EXTINF:-1,USA: Boomerang
-http://leaderpro.pt:25461/live/lm/lm/28178.ts
-#EXTINF:-1,USA: BNN
-http://leaderpro.pt:25461/live/lm/lm/28179.ts
-#EXTINF:-1,USA: BYU TV
-http://leaderpro.pt:25461/live/lm/lm/28100.ts
-#EXTINF:-1,USA: BRAVO HD(1)
-http://leaderpro.pt:25461/live/lm/lm/28124.ts
-#EXTINF:-1,USA: C-Span 3
-http://leaderpro.pt:25461/live/lm/lm/28185.ts
-#EXTINF:-1,USA: C-Span 2
-http://leaderpro.pt:25461/live/lm/lm/28184.ts
-#EXTINF:-1,USA: C-Span 1
-http://leaderpro.pt:25461/live/lm/lm/28183.ts
-#EXTINF:-1,USA: CA | TSN 5*
-http://leaderpro.pt:25461/live/lm/lm/28201.ts
-#EXTINF:-1,USA: CA | TSN 2
-http://leaderpro.pt:25461/live/lm/lm/28198.ts
-#EXTINF:-1,USA: CARTOON NETWORK
-http://leaderpro.pt:25461/live/lm/lm/28101.ts
-#EXTINF:-1,USA: CAPITAL TV
-http://leaderpro.pt:25461/live/lm/lm/28164.ts
-#EXTINF:-1,USA: CBS
-http://leaderpro.pt:25461/live/lm/lm/28125.ts
-#EXTINF:-1,USA: CBSN HD
-http://leaderpro.pt:25461/live/lm/lm/28102.ts
-#EXTINF:-1,USA: CBS Sports Network HD
-http://leaderpro.pt:25461/live/lm/lm/28236.ts
-#EXTINF:-1,USA: CINEMAX ACTION HD
-http://leaderpro.pt:25461/live/lm/lm/28186.ts
-#EXTINF:-1,USA: Cinemax 5 StarMax
-http://leaderpro.pt:25461/live/lm/lm/28212.ts
-#EXTINF:-1,USA: Cinemax ActionMax East
-http://leaderpro.pt:25461/live/lm/lm/28213.ts
-#EXTINF:-1,USA: Cinemax East HD
-http://leaderpro.pt:25461/live/lm/lm/28177.ts
-#EXTINF:-1,USA: Cinemax East
-http://leaderpro.pt:25461/live/lm/lm/28214.ts
-#EXTINF:-1,USA: Cinemax MoreMax
-http://leaderpro.pt:25461/live/lm/lm/28176.ts
-#EXTINF:-1,USA: CNN HD *
-http://leaderpro.pt:25461/live/lm/lm/28263.ts
-#EXTINF:-1,USA: CNN HD
-http://leaderpro.pt:25461/live/lm/lm/28187.ts
-#EXTINF:-1,USA: CNN US HD
-http://leaderpro.pt:25461/live/lm/lm/28156.ts
-#EXTINF:-1,USA: CNBC
-http://leaderpro.pt:25461/live/lm/lm/28103.ts
-#EXTINF:-1,USA: COMEDY CENTRAL HD
-http://leaderpro.pt:25461/live/lm/lm/28126.ts
-#EXTINF:-1,USA: CW11
-http://leaderpro.pt:25461/live/lm/lm/28175.ts
-#EXTINF:-1,USA: CW HD
-http://leaderpro.pt:25461/live/lm/lm/28127.ts
-#EXTINF:-1,USA: DISCOVERY HD
-http://leaderpro.pt:25461/live/lm/lm/28104.ts
-#EXTINF:-1,USA: Discovery Channel
-http://leaderpro.pt:25461/live/lm/lm/28258.ts
-#EXTINF:-1,USA: Discovery Science HD
-http://leaderpro.pt:25461/live/lm/lm/28215.ts
-#EXTINF:-1,USA: Discovery HD Showcase
-http://leaderpro.pt:25461/live/lm/lm/28174.ts
-#EXTINF:-1,USA: DESTINATION AMERICA
-http://leaderpro.pt:25461/live/lm/lm/28234.ts
-#EXTINF:-1,USA: Disney XD HD
-http://leaderpro.pt:25461/live/lm/lm/28259.ts
-#EXTINF:-1,USA: DISNEY JR HD
-http://leaderpro.pt:25461/live/lm/lm/28260.ts
-#EXTINF:-1,USA: DW
-http://leaderpro.pt:25461/live/lm/lm/28105.ts
-#EXTINF:-1,USA: DIY Network
-http://leaderpro.pt:25461/live/lm/lm/28216.ts
-#EXTINF:-1,USA: ESPN
-http://leaderpro.pt:25461/live/lm/lm/28137.ts
-#EXTINF:-1,USA: ESPN HD
-http://leaderpro.pt:25461/live/lm/lm/28128.ts
-#EXTINF:-1,USA: ESPN 2
-http://leaderpro.pt:25461/live/lm/lm/28188.ts
-#EXTINF:-1,USA: ESPN U HD
-http://leaderpro.pt:25461/live/lm/lm/28154.ts
-#EXTINF:-1,USA: ESPN News US HD
-http://leaderpro.pt:25461/live/lm/lm/28155.ts
-#EXTINF:-1,USA: E!
-http://leaderpro.pt:25461/live/lm/lm/28094.ts
-#EXTINF:-1,USA: FIGHT SPORT
-http://leaderpro.pt:25461/live/lm/lm/28202.ts
-#EXTINF:-1,USA: Fight HD
-http://leaderpro.pt:25461/live/lm/lm/28106.ts
-#EXTINF:-1,USA: Food Network HD
-http://leaderpro.pt:25461/live/lm/lm/28217.ts
-#EXTINF:-1,USA: Fine Living
-http://leaderpro.pt:25461/live/lm/lm/28173.ts
-#EXTINF:-1,USA: Fox HD
-http://leaderpro.pt:25461/live/lm/lm/28096.ts
-#EXTINF:-1,USA: FOX 43
-http://leaderpro.pt:25461/live/lm/lm/28189.ts
-#EXTINF:-1,USA: FOX NEWS HD
-http://leaderpro.pt:25461/live/lm/lm/28129.ts
-#EXTINF:-1,USA: Fox Sports 1 HD
-http://leaderpro.pt:25461/live/lm/lm/28138.ts
-#EXTINF:-1,USA: Fox sport 1 backup
-http://leaderpro.pt:25461/live/lm/lm/28235.ts
-#EXTINF:-1,USA: Fox Sports 2 HD
-http://leaderpro.pt:25461/live/lm/lm/28139.ts
-#EXTINF:-1,USA: FOXX HD
-http://leaderpro.pt:25461/live/lm/lm/28218.ts
-#EXTINF:-1,USA: Fox SPORTS 506 HD
-http://leaderpro.pt:25461/live/lm/lm/28190.ts
-#EXTINF:-1,USA: FXX
-http://leaderpro.pt:25461/live/lm/lm/28107.ts
-#EXTINF:-1,USA: FX HD
-http://leaderpro.pt:25461/live/lm/lm/28219.ts
-#EXTINF:-1,USA: FUEL HD
-http://leaderpro.pt:25461/live/lm/lm/28172.ts
-#EXTINF:-1,USA: GRIT TV Movies
-http://leaderpro.pt:25461/live/lm/lm/28262.ts
-#EXTINF:-1,USA: HALLMARK
-http://leaderpro.pt:25461/live/lm/lm/28221.ts
-#EXTINF:-1,USA: H2
-http://leaderpro.pt:25461/live/lm/lm/28220.ts
-#EXTINF:-1,USA: HBO East
-http://leaderpro.pt:25461/live/lm/lm/28109.ts
-#EXTINF:-1,USA: HBO Comedy
-http://leaderpro.pt:25461/live/lm/lm/28108.ts
-#EXTINF:-1,USA: HBO Signature
-http://leaderpro.pt:25461/live/lm/lm/28111.ts
-#EXTINF:-1,USA: HBO HD
-http://leaderpro.pt:25461/live/lm/lm/28110.ts
-#EXTINF:-1,USA: HBO Zone
-http://leaderpro.pt:25461/live/lm/lm/28112.ts
-#EXTINF:-1,USA: HGTV HD
-http://leaderpro.pt:25461/live/lm/lm/28171.ts
-#EXTINF:-1,USA: HEROES AND ICONS
-http://leaderpro.pt:25461/live/lm/lm/28261.ts
-#EXTINF:-1,USA: HISTORY HD
-http://leaderpro.pt:25461/live/lm/lm/28130.ts
-#EXTINF:-1,USA: HIFI
-http://leaderpro.pt:25461/live/lm/lm/28222.ts
-#EXTINF:-1,USA: ION Television East HD
-http://leaderpro.pt:25461/live/lm/lm/28153.ts
-#EXTINF:-1,USA: Investigation Discovery
-http://leaderpro.pt:25461/live/lm/lm/28131.ts
-#EXTINF:-1,USA: Lifetime Movie Network HD
-http://leaderpro.pt:25461/live/lm/lm/28152.ts
-#EXTINF:-1,USA: LIVE NHL 12 HD
-http://leaderpro.pt:25461/live/lm/lm/28248.ts
-#EXTINF:-1,USA: LIVE NHL 11 HD
-http://leaderpro.pt:25461/live/lm/lm/28249.ts
-#EXTINF:-1,USA: LIVE NHL 10 HD
-http://leaderpro.pt:25461/live/lm/lm/28250.ts
-#EXTINF:-1,USA: LIVE NHL 9 HD
-http://leaderpro.pt:25461/live/lm/lm/28240.ts
-#EXTINF:-1,USA: LIVE NHL 8 HD
-http://leaderpro.pt:25461/live/lm/lm/28241.ts
-#EXTINF:-1,USA: LIVE NHL 7 HD
-http://leaderpro.pt:25461/live/lm/lm/28242.ts
-#EXTINF:-1,USA: LIVE NHL 6 HD
-http://leaderpro.pt:25461/live/lm/lm/28243.ts
-#EXTINF:-1,USA: LIVE NHL 5 HD
-http://leaderpro.pt:25461/live/lm/lm/28244.ts
-#EXTINF:-1,USA: LIVE NHL 4 HD
-http://leaderpro.pt:25461/live/lm/lm/28245.ts
-#EXTINF:-1,USA: LIVE NHL 3 HD
-http://leaderpro.pt:25461/live/lm/lm/28246.ts
-#EXTINF:-1,USA: LIVE NHL 2 HD
-http://leaderpro.pt:25461/live/lm/lm/28247.ts
-#EXTINF:-1,USA: LIVE NHL 1 HD
-http://leaderpro.pt:25461/live/lm/lm/28251.ts
-#EXTINF:-1,USA: MLB Network
-http://leaderpro.pt:25461/live/lm/lm/28191.ts
-#EXTINF:-1,USA: MelloTV
-http://leaderpro.pt:25461/live/lm/lm/28228.ts
-#EXTINF:-1,USA: MSNBC
-http://leaderpro.pt:25461/live/lm/lm/28095.ts
-#EXTINF:-1,USA: MSG HD
-http://leaderpro.pt:25461/live/lm/lm/28151.ts
-#EXTINF:-1,USA: MSNBC HD
-http://leaderpro.pt:25461/live/lm/lm/28192.ts
-#EXTINF:-1,USA: MTV Rocks
-http://leaderpro.pt:25461/live/lm/lm/28170.ts
-#EXTINF:-1,USA: MTV HD
-http://leaderpro.pt:25461/live/lm/lm/28233.ts
-#EXTINF:-1,USA: MY9 TV
-http://leaderpro.pt:25461/live/lm/lm/28163.ts
-#EXTINF:-1,USA: MY13
-http://leaderpro.pt:25461/live/lm/lm/28254.ts
-#EXTINF:-1,USA: National Geographic
-http://leaderpro.pt:25461/live/lm/lm/28223.ts
-#EXTINF:-1,USA: NASA TV HD
-http://leaderpro.pt:25461/live/lm/lm/28238.ts
-#EXTINF:-1,USA: NBC Golf
-http://leaderpro.pt:25461/live/lm/lm/28132.ts
-#EXTINF:-1,USA: NBC
-http://leaderpro.pt:25461/live/lm/lm/28166.ts
-#EXTINF:-1,USA: Network (US)
-http://leaderpro.pt:25461/live/lm/lm/28133.ts
-#EXTINF:-1,USA: NBCSNHD
-http://leaderpro.pt:25461/live/lm/lm/28140.ts
-#EXTINF:-1,USA: NEWSMAX YT LIVE HD
-http://leaderpro.pt:25461/live/lm/lm/28257.ts
-#EXTINF:-1,USA: NFL Network 1080i
-http://leaderpro.pt:25461/live/lm/lm/28098.ts
-#EXTINF:-1,USA: NFL Network 1
-http://leaderpro.pt:25461/live/lm/lm/28181.ts
-#EXTINF:-1,USA: NFL REDZONE SD
-http://leaderpro.pt:25461/live/lm/lm/28097.ts
-#EXTINF:-1,USA: NFL Network HD
-http://leaderpro.pt:25461/live/lm/lm/28141.ts
-#EXTINF:-1,USA: NHL Network(1)
-http://leaderpro.pt:25461/live/lm/lm/28193.ts
-#EXTINF:-1,USA: Nursery Rhymes (Baby Songs)
-http://leaderpro.pt:25461/live/lm/lm/28162.ts
-#EXTINF:-1,USA: NICKELODEN HD
-http://leaderpro.pt:25461/live/lm/lm/28224.ts
-#EXTINF:-1,USA: OWN HD
-http://leaderpro.pt:25461/live/lm/lm/28252.ts
-#EXTINF:-1,USA: OUTDOOR CHANNEL HD
-http://leaderpro.pt:25461/live/lm/lm/28169.ts
-#EXTINF:-1,USA: PAC-12 Arizona
-http://leaderpro.pt:25461/live/lm/lm/28142.ts
-#EXTINF:-1,USA: PAC-12 Los Angeles
-http://leaderpro.pt:25461/live/lm/lm/28144.ts
-#EXTINF:-1,USA: PAC-12 Bay Area
-http://leaderpro.pt:25461/live/lm/lm/28143.ts
-#EXTINF:-1,USA: PAC-12 Washington
-http://leaderpro.pt:25461/live/lm/lm/28146.ts
-#EXTINF:-1,USA: PAC-12 Oregon
-http://leaderpro.pt:25461/live/lm/lm/28145.ts
-#EXTINF:-1,USA: SHOWTIME HD
-http://leaderpro.pt:25461/live/lm/lm/28115.ts
-#EXTINF:-1,USA: Showtime 2
-http://leaderpro.pt:25461/live/lm/lm/28114.ts
-#EXTINF:-1,USA: Showtime West
-http://leaderpro.pt:25461/live/lm/lm/28116.ts
-#EXTINF:-1,USA: SEC Network
-http://leaderpro.pt:25461/live/lm/lm/28194.ts
-#EXTINF:-1,USA: SPIKE HD
-http://leaderpro.pt:25461/live/lm/lm/28225.ts
-#EXTINF:-1,USA: Smile Of A Child
-http://leaderpro.pt:25461/live/lm/lm/28168.ts
-#EXTINF:-1,USA: Sportsnet 360 HD
-http://leaderpro.pt:25461/live/lm/lm/28196.ts
-#EXTINF:-1,USA: Sports-Net
-http://leaderpro.pt:25461/live/lm/lm/28229.ts
-#EXTINF:-1,USA: Starz Comedy
-http://leaderpro.pt:25461/live/lm/lm/28118.ts
-#EXTINF:-1,USA: Starz Cinema
-http://leaderpro.pt:25461/live/lm/lm/28117.ts
-#EXTINF:-1,USA: STARZ EDGE HD
-http://leaderpro.pt:25461/live/lm/lm/28226.ts
-#EXTINF:-1,USA: Starz East
-http://leaderpro.pt:25461/live/lm/lm/28119.ts
-#EXTINF:-1,USA: SYFY HD
-http://leaderpro.pt:25461/live/lm/lm/28134.ts
-#EXTINF:-1,USA: Starz Encore
-http://leaderpro.pt:25461/live/lm/lm/28120.ts
-#EXTINF:-1,USA: Tennis Channel HD
-http://leaderpro.pt:25461/live/lm/lm/28121.ts
-#EXTINF:-1,USA: TBS HD
-http://leaderpro.pt:25461/live/lm/lm/28195.ts
-#EXTINF:-1,USA: THE FLORIDA CHANNEL
-http://leaderpro.pt:25461/live/lm/lm/28161.ts
-#EXTINF:-1,USA: TNT HD
-http://leaderpro.pt:25461/live/lm/lm/28135.ts
-#EXTINF:-1,USA: TLC HD
-http://leaderpro.pt:25461/live/lm/lm/28147.ts
-#EXTINF:-1,USA: Toon Kids
-http://leaderpro.pt:25461/live/lm/lm/28256.ts
-#EXTINF:-1,USA: TSN 4 HD
-http://leaderpro.pt:25461/live/lm/lm/28200.ts
-#EXTINF:-1,USA: TSN 3*
-http://leaderpro.pt:25461/live/lm/lm/28199.ts
-#EXTINF:-1,USA: TSN 1
-http://leaderpro.pt:25461/live/lm/lm/28197.ts
-#EXTINF:-1,USA: University of California TV
-http://leaderpro.pt:25461/live/lm/lm/28255.ts
-#EXTINF:-1,USA: UFC Fight pass
-http://leaderpro.pt:25461/live/lm/lm/28253.ts
-#EXTINF:-1,USA: USA Network HD
-http://leaderpro.pt:25461/live/lm/lm/28227.ts
-#EXTINF:-1,USA: VIP: BAYERN FC TV FHD
-http://leaderpro.pt:25461/live/lm/lm/28239.ts
-#EXTINF:-1,USA: VH1 Classic
-http://leaderpro.pt:25461/live/lm/lm/28167.ts
-#EXTINF:-1,USA: Versus HD
-http://leaderpro.pt:25461/live/lm/lm/28148.ts
-#EXTINF:-1,USA: WGN News Chicago
-http://leaderpro.pt:25461/live/lm/lm/28159.ts
-#EXTINF:-1,USA: WGN America HD
-http://leaderpro.pt:25461/live/lm/lm/28150.ts
-#EXTINF:-1,USA: WEATHERNATION
-http://leaderpro.pt:25461/live/lm/lm/28160.ts
-#EXTINF:-1,USA: WWE HD backup
-http://leaderpro.pt:25461/live/lm/lm/28237.ts
-#EXTINF:-1,USA: WWE HD
-http://leaderpro.pt:25461/live/lm/lm/28149.ts
-#EXTINF:-1,USA: YTV
-http://leaderpro.pt:25461/live/lm/lm/28157.ts
-#EXTINF:-1,USA: Yes Network
-http://leaderpro.pt:25461/live/lm/lm/28158.ts
-#EXTINF:-1,UK: 3E Ireland
-http://leaderpro.pt:25461/live/lm/lm/26297.ts
-#EXTINF:-1,UK: BBC News HD
-http://leaderpro.pt:25461/live/lm/lm/26314.ts
-#EXTINF:-1,UK: BBC 4 HD
-http://leaderpro.pt:25461/live/lm/lm/26315.ts
-#EXTINF:-1,UK: Baby TV
-http://leaderpro.pt:25461/live/lm/lm/26296.ts
-#EXTINF:-1,UK: BoomeRang
-http://leaderpro.pt:25461/live/lm/lm/26294.ts
-#EXTINF:-1,UK: BET Star
-http://leaderpro.pt:25461/live/lm/lm/26295.ts
-#EXTINF:-1,UK: Box Upfront
-http://leaderpro.pt:25461/live/lm/lm/26292.ts
-#EXTINF:-1,UK: Box Hits
-http://leaderpro.pt:25461/live/lm/lm/26293.ts
-#EXTINF:-1,UK: BT Sport 4 HD
-http://leaderpro.pt:25461/live/lm/lm/26279.ts
-#EXTINF:-1,UK: BT Sport 3 HD
-http://leaderpro.pt:25461/live/lm/lm/26282.ts
-#EXTINF:-1,UK: BT Sport 2 HD
-http://leaderpro.pt:25461/live/lm/lm/26283.ts
-#EXTINF:-1,UK: BT Sport 1 HD
-http://leaderpro.pt:25461/live/lm/lm/26284.ts
-#EXTINF:-1,UK: BT Sport Extra 5
-http://leaderpro.pt:25461/live/lm/lm/26278.ts
-#EXTINF:-1,UK: BT Sport Extra 3
-http://leaderpro.pt:25461/live/lm/lm/26280.ts
-#EXTINF:-1,UK: BT Sport ESPN HD
-http://leaderpro.pt:25461/live/lm/lm/26281.ts
-#EXTINF:-1,UK: CBS Action
-http://leaderpro.pt:25461/live/lm/lm/26276.ts
-#EXTINF:-1,UK: CBS Reality
-http://leaderpro.pt:25461/live/lm/lm/26274.ts
-#EXTINF:-1,UK: CBS Drama
-http://leaderpro.pt:25461/live/lm/lm/26275.ts
-#EXTINF:-1,UK: Cartoon Network
-http://leaderpro.pt:25461/live/lm/lm/26277.ts
-#EXTINF:-1,UK: CHANNEL 5
-http://leaderpro.pt:25461/live/lm/lm/26303.ts
-#EXTINF:-1,UK: Channel 4
-http://leaderpro.pt:25461/live/lm/lm/26304.ts
-#EXTINF:-1,UK: Channel AKA
-http://leaderpro.pt:25461/live/lm/lm/26302.ts
-#EXTINF:-1,UK: Chart Show TV
-http://leaderpro.pt:25461/live/lm/lm/26272.ts
-#EXTINF:-1,UK: Chart Show Hits
-http://leaderpro.pt:25461/live/lm/lm/26273.ts
-#EXTINF:-1,UK: Cinema Premiere
-http://leaderpro.pt:25461/live/lm/lm/26270.ts
-#EXTINF:-1,UK: China History Channel
-http://leaderpro.pt:25461/live/lm/lm/26271.ts
-#EXTINF:-1,UK: Comedy Central
-http://leaderpro.pt:25461/live/lm/lm/26268.ts
-#EXTINF:-1,UK: CLUB MTV
-http://leaderpro.pt:25461/live/lm/lm/26269.ts
-#EXTINF:-1,UK: Discovery History 1
-http://leaderpro.pt:25461/live/lm/lm/26265.ts
-#EXTINF:-1,UK: Discovery History
-http://leaderpro.pt:25461/live/lm/lm/26266.ts
-#EXTINF:-1,UK: Discovery Channel
-http://leaderpro.pt:25461/live/lm/lm/26267.ts
-#EXTINF:-1,UK: Disney Junior
-http://leaderpro.pt:25461/live/lm/lm/26264.ts
-#EXTINF:-1,UK: DW English
-http://leaderpro.pt:25461/live/lm/lm/26262.ts
-#EXTINF:-1,UK: DRAMA
-http://leaderpro.pt:25461/live/lm/lm/26263.ts
-#EXTINF:-1,UK: EDGE SPORT HD
-http://leaderpro.pt:25461/live/lm/lm/26260.ts
-#EXTINF:-1,UK: E!
-http://leaderpro.pt:25461/live/lm/lm/26261.ts
-#EXTINF:-1,UK: Eleven Sports 1 HD
-http://leaderpro.pt:25461/live/lm/lm/26258.ts
-#EXTINF:-1,UK: Eir Sport 1 HD
-http://leaderpro.pt:25461/live/lm/lm/26259.ts
-#EXTINF:-1,UK: Eleven Sports 2 HD
-http://leaderpro.pt:25461/live/lm/lm/26257.ts
+#EXTM3U
+#EXTINF:-1,TF1
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/2.ts
+#EXTINF:-1,M6
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/7.ts
+#EXTINF:-1,W9
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/20.ts
+#EXTINF:-1,TF1 SÉRIES
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/30.ts
+#EXTINF:-1,C8
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/18.ts
+#EXTINF:-1,C STAR
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/19.ts
+#EXTINF:-1,CANAL+
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/10.ts
+#EXTINF:-1,CANAL+  DECALE
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/12.ts
+#EXTINF:-1,CANAL+ CINEMA
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/13.ts
+#EXTINF:-1,CANAL+  SPORT
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/11.ts
+#EXTINF:-1,CANAL+  FAMILY
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/14.ts
+#EXTINF:-1,CANAL+  SERIES
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/15.ts
+#EXTINF:-1,CINE+  PREMIER
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/41.ts
+#EXTINF:-1,CINE+  FRISSON
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/42.ts
+#EXTINF:-1,CINE+  EMOTION
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/43.ts
+#EXTINF:-1,CINE+  FAMIZ
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/44.ts
+#EXTINF:-1,OCS CHOC
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/48.ts
+#EXTINF:-1,OCS CITY
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/49.ts
+#EXTINF:-1,OCS GEANTS
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/50.ts
+#EXTINF:-1,OCS MAX
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/51.ts
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/36.ts
+#EXTINF:-1,FRANCE 2
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/3.ts
+#EXTINF:-1,FRANCE 3
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/4.ts
+#EXTINF:-1,FRANCE 4
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/5.ts
+#EXTINF:-1,FRANCE 5
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/6.ts
+#EXTINF:-1,CHERIE 25
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/33.ts
+#EXTINF:-1,FRANCE O
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/9.ts
+#EXTINF:-1,PARIS PREMIERE
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/106.ts
+#EXTINF:-1,ARTE
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/8.ts
+#EXTINF:-1,COMEDIE
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/104.ts
+#EXTINF:-1,WARNER TV HD
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/11326.ts
+#EXTINF:-1,CANAL PLAY 1
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/115.ts
+#EXTINF:-1,CANAL PLAY 2
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/116.ts
+#EXTINF:-1,CANAL PLAY 3
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/117.ts
+#EXTINF:-1,CANAL PLAY 4
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/118.ts
+#EXTINF:-1,CANAL PLAY 5
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/119.ts
+#EXTINF:-1,CANAL PLAY 6
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/120.ts
+#EXTINF:-1,CANAL PLAY 7
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/121.ts
+#EXTINF:-1,CANAL PLAY 8
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/11015.ts
+#EXTINF:-1,CANAL PLAY 9
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/11014.ts
+#EXTINF:-1,CANAL PLAY 10
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/11013.ts
+#EXTINF:-1,TCM CINEMA
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/35.ts
+#EXTINF:-1,CINE+  CLASSIC
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/45.ts
+#EXTINF:-1,CINE+  CLUB
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/46.ts
+#EXTINF:-1,CINE FX
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/47.ts
+#EXTINF:-1,CINE POLAR
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/23.ts
+#EXTINF:-1,ACTION
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/22.ts
+#EXTINF:-1,VOYAGE
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/78.ts
+#EXTINF:-1,USHUAIA TV
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/68.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/69.ts
+#EXTINF:-1,NAT GEO WILD
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/70.ts
+#EXTINF:-1,PLANETE
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/75.ts
+#EXTINF:-1,PLANETE+  CI
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/77.ts
+#EXTINF:-1,PLANETE+ AE
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/76.ts
+#EXTINF:-1,ANIMAUX
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/63.ts
+#EXTINF:-1,TOUTE l`HISTOIRE
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/67.ts
+#EXTINF:-1,HISTOIRE
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/66.ts
+#EXTINF:-1,SCIENCE ET VIE
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/79.ts
+#EXTINF:-1,SEASONS
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/65.ts
+#EXTINF:-1,CHASSE PECHE
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/64.ts
+#EXTINF:-1,TMC
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/34.ts
+#EXTINF:-1,CANAL J
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/87.ts
+#EXTINF:-1,BOING
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/84.ts
+#EXTINF:-1,BOOMERANG
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/85.ts
+#EXTINF:-1,CARTOON NETWORK FR
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/86.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/89.ts
+#EXTINF:-1,DISNEY CINEMA
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/91.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/90.ts
+#EXTINF:-1,DISNEY XD
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/88.ts
+#EXTINF:-1,GAME ONE
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/83.ts
+#EXTINF:-1,MANGAS
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/94.ts
+#EXTINF:-1,GONG
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/92.ts
+#EXTINF:-1,GULLI
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/93.ts
+#EXTINF:-1,PIWI
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/97.ts
+#EXTINF:-1,TIJI
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/99.ts
+#EXTINF:-1,TELETOON
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/98.ts
+#EXTINF:-1,ELLE GIRL
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/81.ts
+#EXTINF:-1,KATO
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/80.ts
+#EXTINF:-1,NICKELODEON
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/95.ts
+#EXTINF:-1,NICKELODEON JUNIOR
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/96.ts
+#EXTINF:-1,MTV
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/100.ts
+#EXTINF:-1,MTV DANCE
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/101.ts
+#EXTINF:-1,MTV HITS
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/102.ts
+#EXTINF:-1,MTV MUSIC
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/103.ts
+#EXTINF:-1,NRJ 12
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/38.ts
+#EXTINF:-1,TEVA
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/29.ts
+#EXTINF:-1,TREK
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/71.ts
+#EXTINF:-1,NUMERO 23
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/32.ts
+#EXTINF:-1,AB MOTEURS
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/55.ts
+#EXTINF:-1,AB3
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/17.ts
+#EXTINF:-1,AB1
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16.ts
+#EXTINF:-1,6TER
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/27.ts
+#EXTINF:-1,E!
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/82.ts
+#EXTINF:-1,BEIN SPORTS FR 1 HD
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/52.ts
+#EXTINF:-1,BEIN SPORTS FR 2 HD
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/53.ts
+#EXTINF:-1,BEIN SPORTS FR 3 HD
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/54.ts
+#EXTINF:-1,EUROSPORT 1
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/58.ts
+#EXTINF:-1,EUROSPORT 2
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/59.ts
+#EXTINF:-1,FOOT +
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/57.ts
+#EXTINF:-1,INFOSPORT
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/60.ts
+#EXTINF:-1,BET
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/21.ts
+#EXTINF:-1,BFM SPORT
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/126.ts
+#EXTINF:-1,BFM TV
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/107.ts
+#EXTINF:-1,BFM.Businesse
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/110.ts
+#EXTINF:-1,Cnews
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/108.ts
+#EXTINF:-1,FRANCE 24
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/112.ts
+#EXTINF:-1,EQUIDIA LIVE
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/56.ts
+#EXTINF:-1,EQUIPE 21
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/1.ts
+#EXTINF:-1,EURONEWS
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/111.ts
+#EXTINF:-1,GOLF
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/62.ts
+#EXTINF:-1,LA TELE
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/113.ts
+#EXTINF:-1,TFX
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/37.ts
+#EXTINF:-1,RMC
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/72.ts
+#EXTINF:-1,RTL9
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/28.ts
+#EXTINF:-1,RTSDeux
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/40.ts
+#EXTINF:-1,RTSUn
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/39.ts
+#EXTINF:-1,SERIECLUB
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/25.ts
+#EXTINF:-1,TV5 MONDE
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/105.ts
+#EXTINF:-1,TV BREIZH
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/31.ts
+#EXTINF:-1,WEO
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/114.ts
+
+#EXTINF:-1,FR: BFM Business
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10558.ts
+#EXTINF:-1,FR: PARIS PREMIERE
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10557.ts
+#EXTINF:-1,FR: A la Carte 1
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10569.ts
+#EXTINF:-1,FR: A la Carte 2
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10570.ts
+#EXTINF:-1,FR: A la Carte 3
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10571.ts
+#EXTINF:-1,FR: A la Carte 4
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10572.ts
+#EXTINF:-1,FR: A la Carte 5
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10573.ts
+#EXTINF:-1,FR: Ab3
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10771.ts
+#EXTINF:-1,FR: Action
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10777.ts
+#EXTINF:-1,FR: ANIMAUX
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10559.ts
+#EXTINF:-1,FR: Cherie 25 HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10772.ts
+#EXTINF:-1,FR: Euronews
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10563.ts
+#EXTINF:-1,FR: Eurosport
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10565.ts
+#EXTINF:-1,FR: EUROSPORT 1
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10564.ts
+#EXTINF:-1,FR: Eurosport2
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10567.ts
+#EXTINF:-1,FR: Foot 24/24
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10566.ts
+#EXTINF:-1,FR: France 24
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10780.ts
+#EXTINF:-1,FR: Game One HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10578.ts
+#EXTINF:-1,FR: Golf
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10770.ts
+#EXTINF:-1,FR: InfoSport
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10776.ts
+#EXTINF:-1,FR: Men's UP
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10773.ts
+#EXTINF:-1,FR: Ocs City HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10779.ts
+#EXTINF:-1,FR: Ocs Geant HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10778.ts
+#EXTINF:-1,FR: PLANETE   A&E HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10561.ts
+#EXTINF:-1,FR: PLANETE THALASSA
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10560.ts
+#EXTINF:-1,FR: SERIE CLUB
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10575.ts
+#EXTINF:-1,FR: Syfy
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10574.ts
+#EXTINF:-1,FR: TV5 MONDE
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10577.ts
+#EXTINF:-1,FR: Ushuaia HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10774.ts
+#EXTINF:-1,FR: W9
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10576.ts
+#EXTINF:-1,FR: Weo
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10775.ts
+#EXTINF:-1,FR: AB MOTEUR HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3180.ts
+#EXTINF:-1,FR: AB 1 HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3198.ts
+#EXTINF:-1,FR: BFM TV
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3192.ts
+#EXTINF:-1,FR: BOING
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3166.ts
+#EXTINF:-1,FR: BOOMERANG  HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3162.ts
+#EXTINF:-1,FR: C8 HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3196.ts
+#EXTINF:-1,FR: CARTOON NETWORK HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3157.ts
+#EXTINF:-1,FR: CHASSE ET PECHE HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3175.ts
+#EXTINF:-1,FR: CSTAR HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3195.ts
+#EXTINF:-1,FR: DISCOVERY HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3171.ts
+#EXTINF:-1,FR: DISNEY CINEMA HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3161.ts
+#EXTINF:-1,FR: DISNEY JUNIOR HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3158.ts
+#EXTINF:-1,FR: Disney XD HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3165.ts
+#EXTINF:-1,FR: EQUIDIA LIVE HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3182.ts
+#EXTINF:-1,FR: FRANCE Ô HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3201.ts
+#EXTINF:-1,FR: GULLI
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3167.ts
+#EXTINF:-1,FR: HD1 HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3199.ts
+#EXTINF:-1,FR: HISTOIRE
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3176.ts
+#EXTINF:-1,FR: INFO SPORT HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3179.ts
+#EXTINF:-1,FR: L EQUIPE 21 HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3181.ts
+#EXTINF:-1,FR: LCI HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3197.ts
+#EXTINF:-1,FR: MANGAS HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3164.ts
+#EXTINF:-1,FR: MCM
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3190.ts
+#EXTINF:-1,FR: MCM POP
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3187.ts
+#EXTINF:-1,FR: MTV
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3186.ts
+#EXTINF:-1,FR: MTV HITS HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3189.ts
+#EXTINF:-1,FR: NAT GEO WILD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3173.ts
+#EXTINF:-1,FR: NAT GEOGRAPHIC HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3174.ts
+#EXTINF:-1,FR: NICKELODEON HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3159.ts
+#EXTINF:-1,FR: NRJ HITS HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3184.ts
+#EXTINF:-1,FR: PIWI
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3168.ts
+#EXTINF:-1,FR: PLANET A&E HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3169.ts
+#EXTINF:-1,FR: PLANET  HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3170.ts
+#EXTINF:-1,FR: SEASON
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3178.ts
+#EXTINF:-1,FR: TCM
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3193.ts
+#EXTINF:-1,FR: TELETOON  1 HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3160.ts
+#EXTINF:-1,FR: TMC HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3194.ts
+#EXTINF:-1,FR: TRACE URBAN
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3188.ts
+#EXTINF:-1,FR: TREK HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3177.ts
+#EXTINF:-1,FR: TV5 MONDE HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3191.ts
+#EXTINF:-1,FR: VIRGIN RADIO TV
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3183.ts
+#EXTINF:-1,FR: CNA SAT TV FRANCE W
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/442.ts
+#EXTINF:-1,FR: 13EME RUE HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/453.ts
+#EXTINF:-1,FR: 6TER HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/454.ts
+#EXTINF:-1,FR: ARTE HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/456.ts
+#EXTINF:-1,FR: BEiN SPORT 1
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/452.ts
+#EXTINF:-1,FR: BEiN SPORT 2
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/451.ts
+#EXTINF:-1,FR: BEiN SPORT 3
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/450.ts
+#EXTINF:-1,FR: BEIN SPORT MAX 4
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/449.ts
+#EXTINF:-1,FR: BEIN SPORT MAX 5
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/448.ts
+#EXTINF:-1,FR: BEIN SPORT MAX 6
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/447.ts
+#EXTINF:-1,FR: BEIN SPORT MAX 7
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/446.ts
+#EXTINF:-1,FR: BEIN SPORT MAX 8
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10562.ts
+#EXTINF:-1,FR: CANAL CINEMA HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/467.ts
+#EXTINF:-1,FR: CANAL DECALE HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/466.ts
+#EXTINF:-1,FR: CANAL FAMILY HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/465.ts
+#EXTINF:-1,FR: CANAL HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/470.ts
+#EXTINF:-1,FR: CANAL SERIES HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/468.ts
+#EXTINF:-1,FR: CANAL SPORT HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/469.ts
+#EXTINF:-1,FR: CINE
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/464.ts
+#EXTINF:-1,FR: CINE  CLASSIC
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/463.ts
+#EXTINF:-1,FR: CINE EMOTION HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/462.ts
+#EXTINF:-1,FR: CINE FAMIZ HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/461.ts
+#EXTINF:-1,FR: CINE FRISSON HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/460.ts
+#EXTINF:-1,FR: CINE FX
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/459.ts
+#EXTINF:-1,FR: CINE POLAR
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/458.ts
+#EXTINF:-1,FR: CINE PREMIER HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/457.ts
+#EXTINF:-1,FR: D17 HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/471.ts
+#EXTINF:-1,FR: D8 HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/472.ts
+#EXTINF:-1,FR: DISCOVERY SCIENCE HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/473.ts
+#EXTINF:-1,FR: DISNEY CHANNEL HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/474.ts
+#EXTINF:-1,FR: E!
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/455.ts
+#EXTINF:-1,FR: FRANCE 2 HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/479.ts
+#EXTINF:-1,FR: FRANCE 4 HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/477.ts
+#EXTINF:-1,FR: FRANCE 5 HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/476.ts
+#EXTINF:-1,FR: i TELE HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/494.ts
+#EXTINF:-1,FR: M6 HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/481.ts
+#EXTINF:-1,FR: M6 MUSIC HITS
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/480.ts
+#EXTINF:-1,FR: NRJ 12 HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/490.ts
+#EXTINF:-1,FR: NRJ MUSIC
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/482.ts
+#EXTINF:-1,FR: NT1 HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/483.ts
+#EXTINF:-1,FR: NUMERO 23 HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/484.ts
+#EXTINF:-1,FR: OCS CHOC HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/486.ts
+#EXTINF:-1,FR: OCS MAX HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/485.ts
+#EXTINF:-1,FR: PLANETE CI HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/487.ts
+#EXTINF:-1,FR: RMC DECOUVERTE HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/488.ts
+#EXTINF:-1,FR: SCIENCE ET VIE
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/489.ts
+#EXTINF:-1,FR: TF1 HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/492.ts
+#EXTINF:-1,FR: W9 HD
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/495.ts
+#EXTINF:-1,FR: ZOU ZOU TV
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/475.ts
+
+#EXTINF:-1,FR::-   13EME RUE HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6994.ts
+#EXTINF:-1,FR::-   6TER HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6993.ts
+#EXTINF:-1,FR::-   A  HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6992.ts
+#EXTINF:-1,FR::-   ACTION HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6991.ts
+#EXTINF:-1,FR::-   ANIMAUX HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6990.ts
+#EXTINF:-1,FR::-   ARTE HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6989.ts
+#EXTINF:-1,FR::-   BE CURIOUS FHD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6988.ts
+#EXTINF:-1,FR::-   BEINSPORT 1 FR HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6987.ts
+#EXTINF:-1,FR::-   BEINSPORT 2 FR HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6986.ts
+#EXTINF:-1,FR::-   BEINSPORT 3 FR HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6985.ts
+#EXTINF:-1,FR::-   BEINSPORT-MAX-4FHD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6984.ts
+#EXTINF:-1,FR::-   BEL AB1 HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6983.ts
+#EXTINF:-1,FR::-   BET
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6982.ts
+#EXTINF:-1,FR::-   BFM HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6981.ts
+#EXTINF:-1,FR::-   BFM SPORT FHD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6980.ts
+#EXTINF:-1,FR::-   BOING HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6979.ts
+#EXTINF:-1,FR::-   BRAVA HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6978.ts
+#EXTINF:-1,FR::-   C NEWS HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6977.ts
+#EXTINF:-1,FR::-   C STAR HITS FHD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6976.ts
+#EXTINF:-1,FR::-   C8 HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6975.ts
+#EXTINF:-1,FR::-   CANAL  CINEMA HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6974.ts
+#EXTINF:-1,FR::-   CANAL  DECALE HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6973.ts
+#EXTINF:-1,FR::-   CANAL  FAMILY HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6972.ts
+#EXTINF:-1,FR::-   CANAL  HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6971.ts
+#EXTINF:-1,FR::-   CANAL  SERIES HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6970.ts
+#EXTINF:-1,FR::-   CANAL  SPORT HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6969.ts
+#EXTINF:-1,FR::-   CANAL ALPHA JU FHD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6968.ts
+#EXTINF:-1,FR::-   CANAL J HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6967.ts
+#EXTINF:-1,FR::-   CANAL8 HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6966.ts
+#EXTINF:-1,FR::-   CARTOON NETWORK HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6965.ts
+#EXTINF:-1,FR::-   CHASSE&PECHE HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6964.ts
+#EXTINF:-1,FR::-   CHERIE 25 HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6963.ts
+#EXTINF:-1,FR::-   CINE   PREMIER HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6962.ts
+#EXTINF:-1,FR::-   CINE  CLASSIC HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6961.ts
+#EXTINF:-1,FR::-   CINE  CLUB HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6960.ts
+#EXTINF:-1,FR::-   CINE  EMOTION HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6959.ts
+#EXTINF:-1,FR::-   CINE  FAMIZ HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6958.ts
+#EXTINF:-1,FR::-   CINE  FRISSON HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6957.ts
+#EXTINF:-1,FR::-   CINE FX HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6956.ts
+#EXTINF:-1,FR::-   CINE POLAR HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6955.ts
+#EXTINF:-1,FR::-   COMEDIE  HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6954.ts
+#EXTINF:-1,FR::-   CRIME DISTRICT HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6953.ts
+#EXTINF:-1,FR::-   CSTAR HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6952.ts
+#EXTINF:-1,FR::-   DISCOVERY  FAMILY FHD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6951.ts
+#EXTINF:-1,FR::-   DISCOVERY HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6950.ts
+#EXTINF:-1,FR::-   DISCOVERY INVESTIGATION
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6949.ts
+#EXTINF:-1,FR::-   DISCOVERY INVESTIGATION FHD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6948.ts
+#EXTINF:-1,FR::-   DISCOVERY SCIENCE HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6947.ts
+#EXTINF:-1,FR::-   DISNEY CHANNEL 1 FHD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6946.ts
+#EXTINF:-1,FR::-   DISNEY CHANNEL HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6945.ts
+#EXTINF:-1,FR::-   DISNEY CINEMA HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6944.ts
+#EXTINF:-1,FR::-   DISNEY JUNIOR HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6943.ts
+#EXTINF:-1,FR::-   DISNEY XD HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6942.ts
+#EXTINF:-1,FR::-   E! ENTERTAINMENT HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6941.ts
+#EXTINF:-1,FR::-   ELLE GIRL HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6940.ts
+#EXTINF:-1,FR::-   EQUIDIA LIFE HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6939.ts
+#EXTINF:-1,FR::-   EQUIDIA LIVE HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6938.ts
+#EXTINF:-1,FR::-   EURONEWS
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6937.ts
+#EXTINF:-1,FR::-   EUROSPORT 1 HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6936.ts
+#EXTINF:-1,FR::-   EUROSPORT 2 HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6935.ts
+#EXTINF:-1,FR::-   FRANCE 2 HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6934.ts
+#EXTINF:-1,FR::-   FRANCE 3 HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6933.ts
+#EXTINF:-1,FR::-   FRANCE 4 HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6932.ts
+#EXTINF:-1,FR::-   FRANCE 5 HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6931.ts
+#EXTINF:-1,FR::-   FRANCE O HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6930.ts
+#EXTINF:-1,FR::-   GAME ONE HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6929.ts
+#EXTINF:-1,FR::-   GOLF  HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6928.ts
+#EXTINF:-1,FR::-   GOLF CHANNEL HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6927.ts
+#EXTINF:-1,FR::-   GULLI HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6926.ts
+#EXTINF:-1,FR::-   HISTOIRE HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6925.ts
+#EXTINF:-1,FR::-   I24 NEWS HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6924.ts
+#EXTINF:-1,FR::-   INFOSPORT HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6923.ts
+#EXTINF:-1,FR::-   J.ONE
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6922.ts
+#EXTINF:-1,FR::-   LA CHAINE METEO
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6921.ts
+#EXTINF:-1,FR::-   LA CHAINE PARLEMENTAIRE FHD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6920.ts
+#EXTINF:-1,FR::-   LCI HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6919.ts
+#EXTINF:-1,FR::-   M6 HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6918.ts
+#EXTINF:-1,FR::-   MANGA HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6917.ts
+#EXTINF:-1,FR::-   MANGAS FHD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6916.ts
+#EXTINF:-1,FR::-   MCM HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6915.ts
+#EXTINF:-1,FR::-   MCM TOP HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6914.ts
+#EXTINF:-1,FR::-   MELODY TV
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6913.ts
+#EXTINF:-1,FR::-   MEZZO LIVE HD FR
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6912.ts
+#EXTINF:-1,FR::-   MOTORSPORT
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6911.ts
+#EXTINF:-1,FR::-   MOTORSPORT.TV HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6910.ts
+#EXTINF:-1,FR::-   MTV FRANCE HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6909.ts
+#EXTINF:-1,FR::-   MTV HITS FHD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6908.ts
+#EXTINF:-1,FR::-   MUSCULATION TV HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6907.ts
+#EXTINF:-1,FR::-   MY CUISINE FHD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6906.ts
+#EXTINF:-1,FR::-   NATIONAL GEO WILD HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6905.ts
+#EXTINF:-1,FR::-   NATIONAL GEOGRAPHIC HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6904.ts
+#EXTINF:-1,FR::-   NICKELODEON 1 FHD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6903.ts
+#EXTINF:-1,FR::-   NICKELODEON HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6902.ts
+#EXTINF:-1,FR::-   NOLLYWOOD HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6901.ts
+#EXTINF:-1,FR::-   NOVELAS FHD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6900.ts
+#EXTINF:-1,FR::-   NRJ12 HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6899.ts
+#EXTINF:-1,FR::-   OCS CHOC FHD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6898.ts
+#EXTINF:-1,FR::-   OCS CITY FHD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6897.ts
+#EXTINF:-1,FR::-   OCS GEANTS
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6896.ts
+#EXTINF:-1,FR::-   OCS GEANTS HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6895.ts
+#EXTINF:-1,FR::-   OCS MAX HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6894.ts
+#EXTINF:-1,FR::-   OKLM FHD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6893.ts
+#EXTINF:-1,FR::-   PARAMOUNT CHANNEL HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6892.ts
+#EXTINF:-1,FR::-   PARAMOUNT DECALE
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6891.ts
+#EXTINF:-1,FR::-   PARIS PREMIERE
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6890.ts
+#EXTINF:-1,FR::-   PIWI  HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6889.ts
+#EXTINF:-1,FR::-   PLANETE  HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6888.ts
+#EXTINF:-1,FR::-   PLANETE AE HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6887.ts
+#EXTINF:-1,FR::-   PLANETE CI HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6886.ts
+#EXTINF:-1,FR::-   POLAR  FULLHD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6885.ts
+#EXTINF:-1,FR::-   RFM TV HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6884.ts
+#EXTINF:-1,FR::-   RMC DECOUVERTE HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6883.ts
+#EXTINF:-1,FR::-   RTL9 HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6882.ts
+#EXTINF:-1,FR::-   RTS DEUX HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6881.ts
+#EXTINF:-1,FR::-   RTS UN HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6880.ts
+#EXTINF:-1,FR::-   SCIENCES & VIE HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6879.ts
+#EXTINF:-1,FR::-   SEASON HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6878.ts
+#EXTINF:-1,FR::-   SERIE CLUB HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6877.ts
+#EXTINF:-1,FR::-   SFR SPORT 1 HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6876.ts
+#EXTINF:-1,FR::-   SFR SPORT 2 HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6875.ts
+#EXTINF:-1,FR::-   SFR SPORT 3 HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6874.ts
+#EXTINF:-1,FR::-   SFR SPORT 5 HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6873.ts
+#EXTINF:-1,FR::-   SUNDANCE TV FULLHD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6872.ts
+#EXTINF:-1,FR::-   SYFY HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6871.ts
+#EXTINF:-1,FR::-   TCM CINEMA HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6870.ts
+#EXTINF:-1,FR::-   TELETOON  HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6869.ts
+#EXTINF:-1,FR::-   TELETOON 1 FHD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6868.ts
+#EXTINF:-1,FR::-   TF1 FILM ET SERIE HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6867.ts
+#EXTINF:-1,FR::-   TF1 HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6866.ts
+#EXTINF:-1,FR::-   TFX HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6865.ts
+#EXTINF:-1,FR::-   TIJI HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6864.ts
+#EXTINF:-1,FR::-   TMC HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6863.ts
+#EXTINF:-1,FR::-   TOONAMI
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6862.ts
+#EXTINF:-1,FR::-   TRACE AFRICA FULLHD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6861.ts
+#EXTINF:-1,FR::-   TRACE SPORT FULLHD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6860.ts
+#EXTINF:-1,FR::-   TRACE URBAN HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6859.ts
+#EXTINF:-1,FR::-   TV8 MONT BLANC FHD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6858.ts
+#EXTINF:-1,FR::-   USHUAIA TV HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6857.ts
+#EXTINF:-1,FR::-   VH1
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6856.ts
+#EXTINF:-1,FR::-   VICELAND FULLHD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6855.ts
+#EXTINF:-1,FR::-   VOYAGE HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6854.ts
+#EXTINF:-1,FR::-   W9 HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6853.ts
+#EXTINF:-1,FR::-   WEO HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6852.ts
+#EXTINF:-1,FR::-  ALTICE STUDIO FHD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/7005.ts
+#EXTINF:-1,FR::-  BEL AB3 HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/7004.ts
+#EXTINF:-1,FR::-  GAME ONE 1
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/7003.ts
+#EXTINF:-1,FR::-  GIRONDINS TV
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/7002.ts
+#EXTINF:-1,FR::-  GRANDE LILLE FHD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/7001.ts
+#EXTINF:-1,FR::-  MYZEN FHD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/7000.ts
+#EXTINF:-1,FR::-  SFR SPORT 4  HD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6999.ts
+#EXTINF:-1,FR::-  TF1 1
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6998.ts
+#EXTINF:-1,FR::-  TMC 1
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6997.ts
+#EXTINF:-1,FR::-  VH1 CLASSIC
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6996.ts
+#EXTINF:-1,FR::-  WARNER TV
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/6995.ts
+#EXTINF:-1,FR_Discovery-ID-FullHD
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/4712.ts
+#EXTINF:-1,FR::BeIN Sport 1
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/715.ts
+#EXTINF:-1,FR::BeIN Sport 2
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/712.ts
+#EXTINF:-1,FR::BeIN Sport 3
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/709.ts
+#EXTINF:-1,FR::BeIN_SPORT_1
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/714.ts
+#EXTINF:-1,FR::BeIN_SPORT_1_S2
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/713.ts
+#EXTINF:-1,FR::BeIN_SPORT_2
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/711.ts
+#EXTINF:-1,FR::BeIN_SPORT_2_(b)
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/710.ts
+#EXTINF:-1,FR::BeIN_SPORT_3
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/708.ts
+#EXTINF:-1,FR::BeIN_SPORT_3_S2
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/707.ts
+#EXTINF:-1,FR::BeIN_SPORT_MAX4
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/706.ts
+#EXTINF:-1,FR::BeIN_SPORT_MAX5
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/705.ts
+#EXTINF:-1,FR::BeIN_SPORT_MAX6
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/704.ts
+#EXTINF:-1,FR::BeIN_SPORT_MAX7
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/703.ts
+#EXTINF:-1,FR::BeIN_SPORT_MAX8
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/702.ts
+#EXTINF:-1,FR::BeIN_SPORT_MAX9
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/701.ts
+#EXTINF:-1,FR::BeIN_SPORT_MAX10
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/700.ts
+#EXTINF:-1,FR::EuroSport
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/696.ts
+#EXTINF:-1,FR::EuroSport 2
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/694.ts
+#EXTINF:-1,FR::EUROSPORT_1
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/695.ts
+#EXTINF:-1,FR::EUROSPORT_2
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/693.ts
+#EXTINF:-1,FR::SFR_SPORT_1
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/722.ts
+#EXTINF:-1,FR::SFR_SPORT_1_S2
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/721.ts
+#EXTINF:-1,FR::SFR_SPORT_3
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/718.ts
+#EXTINF:-1,FR::SFR_SPORT_3_S2
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/717.ts
+#EXTINF:-1,FR::SFR_SPORT_5
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/716.ts
+#EXTINF:-1,FR::Sfr Sport 1
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/725.ts
+#EXTINF:-1,FR::SFR SPORT 2
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/720.ts
+#EXTINF:-1,FR::SFR SPORT 2 S2
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/719.ts
+#EXTINF:-1,FR::Sfr Sport 3
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/724.ts
+#EXTINF:-1,FR::Sfr Sport 5
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/723.ts
+#EXTINF:-1,FR::AB Moteurs
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/689.ts
+#EXTINF:-1,FR::BFM_Sport
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/692.ts
+#EXTINF:-1,FR::Canal  Sport
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/699.ts
+#EXTINF:-1,FR::CANAL _SPORT
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/698.ts
+#EXTINF:-1,FR::EQUIDIA LIVE
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/687.ts
+#EXTINF:-1,FR::EQUIDIA_LIFE
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/686.ts
+#EXTINF:-1,FR::FOOT
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/697.ts
+#EXTINF:-1,FR::GOLF
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/684.ts
+#EXTINF:-1,FR::Golf Channel
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/685.ts
+#EXTINF:-1,FR::INFOSPORT
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/688.ts
+#EXTINF:-1,FR::L.EQUIPE21
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/690.ts
+#EXTINF:-1,FR::LEquipe 21
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/691.ts
+#EXTINF:-1,==~~FILMS.FRANCE~~==
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/787.ts
+#EXTINF:-1,FR::CANAL
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/786.ts
+#EXTINF:-1,FR::Canal  Decale
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/783.ts
+#EXTINF:-1,FR::Canal  Emotion
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/773.ts
+#EXTINF:-1,FR::Canal  Family
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/781.ts
+#EXTINF:-1,FR::Canal  Premier
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/777.ts
+#EXTINF:-1,FR::Canal  Series
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/779.ts
+#EXTINF:-1,FR::CANAL _CINEMA
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/784.ts
+#EXTINF:-1,FR::CANAL _DECALE
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/782.ts
+#EXTINF:-1,FR::CANAL _FAMILY
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/780.ts
+#EXTINF:-1,FR::CANAL _SERIES
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/778.ts
+#EXTINF:-1,FR::Canal Cinema
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/785.ts
+#EXTINF:-1,FR::Cine  Frisson
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/775.ts
+#EXTINF:-1,FR::CINE _CLASSIC
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/771.ts
+#EXTINF:-1,FR::CINE _FAMIZ
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/769.ts
+#EXTINF:-1,FR::CINE _FRISSON_?
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/774.ts
+#EXTINF:-1,FR::CINE _POLAR
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/765.ts
+#EXTINF:-1,FR::Cine Classic
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/772.ts
+#EXTINF:-1,FR::Cine Famiz
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/770.ts
+#EXTINF:-1,FR::Cine Fx
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/768.ts
+#EXTINF:-1,FR::Cine Polar
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/766.ts
+#EXTINF:-1,FR::CINE_EMOTION
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/776.ts
+#EXTINF:-1,FR::CINE_Fx
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/767.ts
+#EXTINF:-1,FR::CINE_PREMIER
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/764.ts
+#EXTINF:-1,FR::Orange Cine 1
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/742.ts
+#EXTINF:-1,FR::Orange Cine 2
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/741.ts
+#EXTINF:-1,FR::Orange Cine 3
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/740.ts
+#EXTINF:-1,FR::Orange Cine 4
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/739.ts
+#EXTINF:-1,FR::Orange Cine 5
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/738.ts
+#EXTINF:-1,FR::Orange Cine 6
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/737.ts
+#EXTINF:-1,FR::Orange Cine 7
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/736.ts
+#EXTINF:-1,FR::Orange Cine 8
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/735.ts
+#EXTINF:-1,FR::Movies 2
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/758.ts
+#EXTINF:-1,FR::Movies 3
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/759.ts
+#EXTINF:-1,FR::Ocs Choc
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/757.ts
+#EXTINF:-1,FR::Ocs City
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/755.ts
+#EXTINF:-1,FR::Ocs Geant
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/753.ts
+#EXTINF:-1,FR::Ocs Max
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/751.ts
+#EXTINF:-1,FR::OCS_CHOC
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/756.ts
+#EXTINF:-1,FR::OCS_CITY
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/754.ts
+#EXTINF:-1,FR::OCS_GEANTS
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/752.ts
+#EXTINF:-1,FR::OCS_MAX
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/750.ts
+#EXTINF:-1,FR::Paramount
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/761.ts
+#EXTINF:-1,FR::PARAMOUNT CHANNEL
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/760.ts
+#EXTINF:-1,FR::PPV_A_LA_CARTE_1
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/734.ts
+#EXTINF:-1,FR::PPV_A_LA_CARTE_2
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/733.ts
+#EXTINF:-1,FR::PPV_A_LA_CARTE_3
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/732.ts
+#EXTINF:-1,FR::PPV_A_LA_CARTE_4
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/731.ts
+#EXTINF:-1,FR::PPV_A_LA_CARTE_5
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/730.ts
+#EXTINF:-1,FR::PPV_A_LA_CARTE_6
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/729.ts
+#EXTINF:-1,FR::PPV_A_LA_CARTE_7
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/728.ts
+#EXTINF:-1,FR::PPV_A_LA_CARTE_8
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/727.ts
+#EXTINF:-1,FR::Tcm Cinema
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/762.ts
+#EXTINF:-1,FR::TCM_CINEMA
+http://max-iptv2sat.ddns.net:9000/live/asemvip2/123456789123456789/763.ts
+#EXTINF:-1,SFR SPORT 1HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6796.ts
+#EXTINF:-1,SFR SPORT 2HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6795.ts
+#EXTINF:-1,SFR SPORT 3HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6794.ts
+#EXTINF:-1,Bein Sport 1HD FR
+http://sw.fannan.se:8000/live/zizo18040/54544452/6799.ts
+#EXTINF:-1,Bein Sport 2HD FR
+http://sw.fannan.se:8000/live/zizo18040/54544452/6798.ts
+#EXTINF:-1,Bein Sport 3HD FR
+http://sw.fannan.se:8000/live/zizo18040/54544452/6797.ts
+#EXTINF:-1,BEIN SPORTS MAX 4 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6793.ts
+#EXTINF:-1,BEIN SPORTS MAX 5 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6792.ts
+#EXTINF:-1,BEIN SPORTS MAX 6 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6791.ts
+#EXTINF:-1,BEIN SPORTS MAX 7 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6790.ts
+#EXTINF:-1,BEIN SPORTS MAX 8 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6789.ts
+#EXTINF:-1,BEIN SPORTS MAX 9 HD
+http://sw.fannan.se:8000/live/zizo18040/54544452/6788.ts
