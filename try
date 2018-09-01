@@ -1,119 +1,416 @@
-#EXTM3U
-#EXTINF:0,USA: ABC HD
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4192.ts
-#EXTINF:0,USA: ABC NEWS HD
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4191.ts
-#EXTINF:0,USA: AFN SPORTS
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4190.ts
-#EXTINF:0,USA: AFN SPORTS 2
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4189.ts
-#EXTINF:0,USA: AMC HD
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4188.ts
-#EXTINF:0,USA: Bein Sports USA HD
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4187.ts
-#EXTINF:0,USA: CARTOON NETWORK
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4186.ts
-#EXTINF:0,USA: CBS Sports Network HD
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4185.ts
-#EXTINF:0,USA: CBSN HD
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4184.ts
-#EXTINF:0,USA: CNBC
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4183.ts
-#EXTINF:0,USA: Comedy Central
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4182.ts
-#EXTINF:0,USA: DISCCOVERY HD
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4181.ts
-#EXTINF:0,USA: Discovery Science HD
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4180.ts
-#EXTINF:0,USA: ESPN
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4178.ts
-#EXTINF:0,USA: ESPN 2
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4177.ts
-#EXTINF:0,USA: ESPN News US HD
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4176.ts
-#EXTINF:0,USA: ESPN U HD
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4175.ts
-#EXTINF:0,USA: Fight HD
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4174.ts
-#EXTINF:0,USA: FIGHT SPORT
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4173.ts
-#EXTINF:0,USA: Food Network
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4172.ts
-#EXTINF:0,USA: Food Network HD
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4171.ts
-#EXTINF:0,USA: Fox HD
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4170.ts
-#EXTINF:0,USA: FOX News HD
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4169.ts
-#EXTINF:0,USA: Fox Sports 1
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4168.ts
-#EXTINF:0,USA: Fox Sports 2
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4167.ts
-#EXTINF:0,USA: Fox SPORTS 506 HD
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4166.ts
-#EXTINF:0,USA: FOXX HD
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4165.ts
-#EXTINF:0,USA: FX HD
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4164.ts
-#EXTINF:0,USA: H2
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4163.ts
-#EXTINF:0,USA: HBO Comedy
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4162.ts
-#EXTINF:0,USA: HBO East
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4161.ts
-#EXTINF:0,USA: HBO HD
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4160.ts
-#EXTINF:0,USA: HBO Signature
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4159.ts
-#EXTINF:0,USA: HBO Zone
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4158.ts
-#EXTINF:0,USA: MBL HD
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4157.ts
-#EXTINF:0,USA: MLB Network
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4156.ts
-#EXTINF:0,USA: MSNBC HD
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4155.ts
-#EXTINF:0,USA: National Geographic
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4154.ts
-#EXTINF:0,USA: NBA TV HD
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4153.ts
-#EXTINF:0,USA: NBC
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4152.ts
-#EXTINF:0,USA: NBC Golf
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4151.ts
-#EXTINF:0,USA: NBCSN HD
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4150.ts
-#EXTINF:0,USA: NFL Network 1
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4149.ts
-#EXTINF:0,USA: NFL Network HD
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4148.ts
-#EXTINF:0,USA: NHL Network
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4147.ts
-#EXTINF:0,USA: NICKELODEON HD
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4146.ts
-#EXTINF:0,USA: PAC-12 Oregon
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4141.ts
-#EXTINF:0,USA: Red Bull
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4139.ts
-#EXTINF:0,USA: SEC Network
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4138.ts
-#EXTINF:0,USA: Smile Of A Child
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4137.ts
-#EXTINF:0,USA: SPIKE HD
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4136.ts
-#EXTINF:0,USA: Sports-Net
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4135.ts
-#EXTINF:0,USA: TBS HD
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4134.ts
-#EXTINF:0,USA: Tennis Channel HD
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4133.ts
-#EXTINF:0,USA: TLC HD
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4132.ts
-#EXTINF:0,USA: Toon Kids
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4131.ts
-#EXTINF:0,USA: UFC Fight pass
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4130.ts
-#EXTINF:0,USA: USA Network HD
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4129.ts
-#EXTINF:0,USA: WWE HD
-http://iptv.wtf:25461/live/4r6FsNbRz/0ux1YzBv83/4127.ts
+#EXTINF:-1,USA: ABC NEWS HD
+http://leaderpro.pt:25461/live/lm/lm/28123.ts
+#EXTINF:-1,USA: ABC HD
+http://leaderpro.pt:25461/live/lm/lm/28122.ts
+#EXTINF:-1,USA: A&E HD
+http://leaderpro.pt:25461/live/lm/lm/28136.ts
+#EXTINF:-1,USA: AFN NEWS
+http://leaderpro.pt:25461/live/lm/lm/28204.ts
+#EXTINF:-1,USA: AFN MOVIE
+http://leaderpro.pt:25461/live/lm/lm/28203.ts
+#EXTINF:-1,USA: AFN PRIME PACIFIC
+http://leaderpro.pt:25461/live/lm/lm/28206.ts
+#EXTINF:-1,USA: AFN PRIME ATLANTIC
+http://leaderpro.pt:25461/live/lm/lm/28205.ts
+#EXTINF:-1,USA: AFN PULSE
+http://leaderpro.pt:25461/live/lm/lm/28207.ts
+#EXTINF:-1,USA: AFN SPORTS 2
+http://leaderpro.pt:25461/live/lm/lm/28210.ts
+#EXTINF:-1,USA: AFN SPORTS
+http://leaderpro.pt:25461/live/lm/lm/28209.ts
+#EXTINF:-1,USA: AFN SPECTRUM
+http://leaderpro.pt:25461/live/lm/lm/28208.ts
+#EXTINF:-1,USA: AMERICAN HEROES CHANNEL
+http://leaderpro.pt:25461/live/lm/lm/28264.ts
+#EXTINF:-1,USA: AMC HD
+http://leaderpro.pt:25461/live/lm/lm/28099.ts
+#EXTINF:-1,USA: ATN USA
+http://leaderpro.pt:25461/live/lm/lm/28232.ts
+#EXTINF:-1,USA: ANIMAL PLANET HD
+http://leaderpro.pt:25461/live/lm/lm/28182.ts
+#EXTINF:-1,USA: NBA TV HD
+http://leaderpro.pt:25461/live/lm/lm/28113.ts
+#EXTINF:-1,USA: Sports USA HD
+http://leaderpro.pt:25461/live/lm/lm/28211.ts
+#EXTINF:-1,USA: Bloomberg TV
+http://leaderpro.pt:25461/live/lm/lm/28165.ts
+#EXTINF:-1,USA: Bloomberg Europe
+http://leaderpro.pt:25461/live/lm/lm/28180.ts
+#EXTINF:-1,USA: Boomerang
+http://leaderpro.pt:25461/live/lm/lm/28178.ts
+#EXTINF:-1,USA: BNN
+http://leaderpro.pt:25461/live/lm/lm/28179.ts
+#EXTINF:-1,USA: BYU TV
+http://leaderpro.pt:25461/live/lm/lm/28100.ts
+#EXTINF:-1,USA: BRAVO HD(1)
+http://leaderpro.pt:25461/live/lm/lm/28124.ts
+#EXTINF:-1,USA: C-Span 3
+http://leaderpro.pt:25461/live/lm/lm/28185.ts
+#EXTINF:-1,USA: C-Span 2
+http://leaderpro.pt:25461/live/lm/lm/28184.ts
+#EXTINF:-1,USA: C-Span 1
+http://leaderpro.pt:25461/live/lm/lm/28183.ts
+#EXTINF:-1,USA: CA | TSN 5*
+http://leaderpro.pt:25461/live/lm/lm/28201.ts
+#EXTINF:-1,USA: CA | TSN 2
+http://leaderpro.pt:25461/live/lm/lm/28198.ts
+#EXTINF:-1,USA: CARTOON NETWORK
+http://leaderpro.pt:25461/live/lm/lm/28101.ts
+#EXTINF:-1,USA: CAPITAL TV
+http://leaderpro.pt:25461/live/lm/lm/28164.ts
+#EXTINF:-1,USA: CBS
+http://leaderpro.pt:25461/live/lm/lm/28125.ts
+#EXTINF:-1,USA: CBSN HD
+http://leaderpro.pt:25461/live/lm/lm/28102.ts
+#EXTINF:-1,USA: CBS Sports Network HD
+http://leaderpro.pt:25461/live/lm/lm/28236.ts
+#EXTINF:-1,USA: CINEMAX ACTION HD
+http://leaderpro.pt:25461/live/lm/lm/28186.ts
+#EXTINF:-1,USA: Cinemax 5 StarMax
+http://leaderpro.pt:25461/live/lm/lm/28212.ts
+#EXTINF:-1,USA: Cinemax ActionMax East
+http://leaderpro.pt:25461/live/lm/lm/28213.ts
+#EXTINF:-1,USA: Cinemax East HD
+http://leaderpro.pt:25461/live/lm/lm/28177.ts
+#EXTINF:-1,USA: Cinemax East
+http://leaderpro.pt:25461/live/lm/lm/28214.ts
+#EXTINF:-1,USA: Cinemax MoreMax
+http://leaderpro.pt:25461/live/lm/lm/28176.ts
+#EXTINF:-1,USA: CNN HD *
+http://leaderpro.pt:25461/live/lm/lm/28263.ts
+#EXTINF:-1,USA: CNN HD
+http://leaderpro.pt:25461/live/lm/lm/28187.ts
+#EXTINF:-1,USA: CNN US HD
+http://leaderpro.pt:25461/live/lm/lm/28156.ts
+#EXTINF:-1,USA: CNBC
+http://leaderpro.pt:25461/live/lm/lm/28103.ts
+#EXTINF:-1,USA: COMEDY CENTRAL HD
+http://leaderpro.pt:25461/live/lm/lm/28126.ts
+#EXTINF:-1,USA: CW11
+http://leaderpro.pt:25461/live/lm/lm/28175.ts
+#EXTINF:-1,USA: CW HD
+http://leaderpro.pt:25461/live/lm/lm/28127.ts
+#EXTINF:-1,USA: DISCOVERY HD
+http://leaderpro.pt:25461/live/lm/lm/28104.ts
+#EXTINF:-1,USA: Discovery Channel
+http://leaderpro.pt:25461/live/lm/lm/28258.ts
+#EXTINF:-1,USA: Discovery Science HD
+http://leaderpro.pt:25461/live/lm/lm/28215.ts
+#EXTINF:-1,USA: Discovery HD Showcase
+http://leaderpro.pt:25461/live/lm/lm/28174.ts
+#EXTINF:-1,USA: DESTINATION AMERICA
+http://leaderpro.pt:25461/live/lm/lm/28234.ts
+#EXTINF:-1,USA: Disney XD HD
+http://leaderpro.pt:25461/live/lm/lm/28259.ts
+#EXTINF:-1,USA: DISNEY JR HD
+http://leaderpro.pt:25461/live/lm/lm/28260.ts
+#EXTINF:-1,USA: DW
+http://leaderpro.pt:25461/live/lm/lm/28105.ts
+#EXTINF:-1,USA: DIY Network
+http://leaderpro.pt:25461/live/lm/lm/28216.ts
+#EXTINF:-1,USA: ESPN
+http://leaderpro.pt:25461/live/lm/lm/28137.ts
+#EXTINF:-1,USA: ESPN HD
+http://leaderpro.pt:25461/live/lm/lm/28128.ts
+#EXTINF:-1,USA: ESPN 2
+http://leaderpro.pt:25461/live/lm/lm/28188.ts
+#EXTINF:-1,USA: ESPN U HD
+http://leaderpro.pt:25461/live/lm/lm/28154.ts
+#EXTINF:-1,USA: ESPN News US HD
+http://leaderpro.pt:25461/live/lm/lm/28155.ts
+#EXTINF:-1,USA: E!
+http://leaderpro.pt:25461/live/lm/lm/28094.ts
+#EXTINF:-1,USA: FIGHT SPORT
+http://leaderpro.pt:25461/live/lm/lm/28202.ts
+#EXTINF:-1,USA: Fight HD
+http://leaderpro.pt:25461/live/lm/lm/28106.ts
+#EXTINF:-1,USA: Food Network HD
+http://leaderpro.pt:25461/live/lm/lm/28217.ts
+#EXTINF:-1,USA: Fine Living
+http://leaderpro.pt:25461/live/lm/lm/28173.ts
+#EXTINF:-1,USA: Fox HD
+http://leaderpro.pt:25461/live/lm/lm/28096.ts
+#EXTINF:-1,USA: FOX 43
+http://leaderpro.pt:25461/live/lm/lm/28189.ts
+#EXTINF:-1,USA: FOX NEWS HD
+http://leaderpro.pt:25461/live/lm/lm/28129.ts
+#EXTINF:-1,USA: Fox Sports 1 HD
+http://leaderpro.pt:25461/live/lm/lm/28138.ts
+#EXTINF:-1,USA: Fox sport 1 backup
+http://leaderpro.pt:25461/live/lm/lm/28235.ts
+#EXTINF:-1,USA: Fox Sports 2 HD
+http://leaderpro.pt:25461/live/lm/lm/28139.ts
+#EXTINF:-1,USA: FOXX HD
+http://leaderpro.pt:25461/live/lm/lm/28218.ts
+#EXTINF:-1,USA: Fox SPORTS 506 HD
+http://leaderpro.pt:25461/live/lm/lm/28190.ts
+#EXTINF:-1,USA: FXX
+http://leaderpro.pt:25461/live/lm/lm/28107.ts
+#EXTINF:-1,USA: FX HD
+http://leaderpro.pt:25461/live/lm/lm/28219.ts
+#EXTINF:-1,USA: FUEL HD
+http://leaderpro.pt:25461/live/lm/lm/28172.ts
+#EXTINF:-1,USA: GRIT TV Movies
+http://leaderpro.pt:25461/live/lm/lm/28262.ts
+#EXTINF:-1,USA: HALLMARK
+http://leaderpro.pt:25461/live/lm/lm/28221.ts
+#EXTINF:-1,USA: H2
+http://leaderpro.pt:25461/live/lm/lm/28220.ts
+#EXTINF:-1,USA: HBO East
+http://leaderpro.pt:25461/live/lm/lm/28109.ts
+#EXTINF:-1,USA: HBO Comedy
+http://leaderpro.pt:25461/live/lm/lm/28108.ts
+#EXTINF:-1,USA: HBO Signature
+http://leaderpro.pt:25461/live/lm/lm/28111.ts
+#EXTINF:-1,USA: HBO HD
+http://leaderpro.pt:25461/live/lm/lm/28110.ts
+#EXTINF:-1,USA: HBO Zone
+http://leaderpro.pt:25461/live/lm/lm/28112.ts
+#EXTINF:-1,USA: HGTV HD
+http://leaderpro.pt:25461/live/lm/lm/28171.ts
+#EXTINF:-1,USA: HEROES AND ICONS
+http://leaderpro.pt:25461/live/lm/lm/28261.ts
+#EXTINF:-1,USA: HISTORY HD
+http://leaderpro.pt:25461/live/lm/lm/28130.ts
+#EXTINF:-1,USA: HIFI
+http://leaderpro.pt:25461/live/lm/lm/28222.ts
+#EXTINF:-1,USA: ION Television East HD
+http://leaderpro.pt:25461/live/lm/lm/28153.ts
+#EXTINF:-1,USA: Investigation Discovery
+http://leaderpro.pt:25461/live/lm/lm/28131.ts
+#EXTINF:-1,USA: Lifetime Movie Network HD
+http://leaderpro.pt:25461/live/lm/lm/28152.ts
+#EXTINF:-1,USA: LIVE NHL 12 HD
+http://leaderpro.pt:25461/live/lm/lm/28248.ts
+#EXTINF:-1,USA: LIVE NHL 11 HD
+http://leaderpro.pt:25461/live/lm/lm/28249.ts
+#EXTINF:-1,USA: LIVE NHL 10 HD
+http://leaderpro.pt:25461/live/lm/lm/28250.ts
+#EXTINF:-1,USA: LIVE NHL 9 HD
+http://leaderpro.pt:25461/live/lm/lm/28240.ts
+#EXTINF:-1,USA: LIVE NHL 8 HD
+http://leaderpro.pt:25461/live/lm/lm/28241.ts
+#EXTINF:-1,USA: LIVE NHL 7 HD
+http://leaderpro.pt:25461/live/lm/lm/28242.ts
+#EXTINF:-1,USA: LIVE NHL 6 HD
+http://leaderpro.pt:25461/live/lm/lm/28243.ts
+#EXTINF:-1,USA: LIVE NHL 5 HD
+http://leaderpro.pt:25461/live/lm/lm/28244.ts
+#EXTINF:-1,USA: LIVE NHL 4 HD
+http://leaderpro.pt:25461/live/lm/lm/28245.ts
+#EXTINF:-1,USA: LIVE NHL 3 HD
+http://leaderpro.pt:25461/live/lm/lm/28246.ts
+#EXTINF:-1,USA: LIVE NHL 2 HD
+http://leaderpro.pt:25461/live/lm/lm/28247.ts
+#EXTINF:-1,USA: LIVE NHL 1 HD
+http://leaderpro.pt:25461/live/lm/lm/28251.ts
+#EXTINF:-1,USA: MLB Network
+http://leaderpro.pt:25461/live/lm/lm/28191.ts
+#EXTINF:-1,USA: MelloTV
+http://leaderpro.pt:25461/live/lm/lm/28228.ts
+#EXTINF:-1,USA: MSNBC
+http://leaderpro.pt:25461/live/lm/lm/28095.ts
+#EXTINF:-1,USA: MSG HD
+http://leaderpro.pt:25461/live/lm/lm/28151.ts
+#EXTINF:-1,USA: MSNBC HD
+http://leaderpro.pt:25461/live/lm/lm/28192.ts
+#EXTINF:-1,USA: MTV Rocks
+http://leaderpro.pt:25461/live/lm/lm/28170.ts
+#EXTINF:-1,USA: MTV HD
+http://leaderpro.pt:25461/live/lm/lm/28233.ts
+#EXTINF:-1,USA: MY9 TV
+http://leaderpro.pt:25461/live/lm/lm/28163.ts
+#EXTINF:-1,USA: MY13
+http://leaderpro.pt:25461/live/lm/lm/28254.ts
+#EXTINF:-1,USA: National Geographic
+http://leaderpro.pt:25461/live/lm/lm/28223.ts
+#EXTINF:-1,USA: NASA TV HD
+http://leaderpro.pt:25461/live/lm/lm/28238.ts
+#EXTINF:-1,USA: NBC Golf
+http://leaderpro.pt:25461/live/lm/lm/28132.ts
+#EXTINF:-1,USA: NBC
+http://leaderpro.pt:25461/live/lm/lm/28166.ts
+#EXTINF:-1,USA: Network (US)
+http://leaderpro.pt:25461/live/lm/lm/28133.ts
+#EXTINF:-1,USA: NBCSNHD
+http://leaderpro.pt:25461/live/lm/lm/28140.ts
+#EXTINF:-1,USA: NEWSMAX YT LIVE HD
+http://leaderpro.pt:25461/live/lm/lm/28257.ts
+#EXTINF:-1,USA: NFL Network 1080i
+http://leaderpro.pt:25461/live/lm/lm/28098.ts
+#EXTINF:-1,USA: NFL Network 1
+http://leaderpro.pt:25461/live/lm/lm/28181.ts
+#EXTINF:-1,USA: NFL REDZONE SD
+http://leaderpro.pt:25461/live/lm/lm/28097.ts
+#EXTINF:-1,USA: NFL Network HD
+http://leaderpro.pt:25461/live/lm/lm/28141.ts
+#EXTINF:-1,USA: NHL Network(1)
+http://leaderpro.pt:25461/live/lm/lm/28193.ts
+#EXTINF:-1,USA: Nursery Rhymes (Baby Songs)
+http://leaderpro.pt:25461/live/lm/lm/28162.ts
+#EXTINF:-1,USA: NICKELODEN HD
+http://leaderpro.pt:25461/live/lm/lm/28224.ts
+#EXTINF:-1,USA: OWN HD
+http://leaderpro.pt:25461/live/lm/lm/28252.ts
+#EXTINF:-1,USA: OUTDOOR CHANNEL HD
+http://leaderpro.pt:25461/live/lm/lm/28169.ts
+#EXTINF:-1,USA: PAC-12 Arizona
+http://leaderpro.pt:25461/live/lm/lm/28142.ts
+#EXTINF:-1,USA: PAC-12 Los Angeles
+http://leaderpro.pt:25461/live/lm/lm/28144.ts
+#EXTINF:-1,USA: PAC-12 Bay Area
+http://leaderpro.pt:25461/live/lm/lm/28143.ts
+#EXTINF:-1,USA: PAC-12 Washington
+http://leaderpro.pt:25461/live/lm/lm/28146.ts
+#EXTINF:-1,USA: PAC-12 Oregon
+http://leaderpro.pt:25461/live/lm/lm/28145.ts
+#EXTINF:-1,USA: SHOWTIME HD
+http://leaderpro.pt:25461/live/lm/lm/28115.ts
+#EXTINF:-1,USA: Showtime 2
+http://leaderpro.pt:25461/live/lm/lm/28114.ts
+#EXTINF:-1,USA: Showtime West
+http://leaderpro.pt:25461/live/lm/lm/28116.ts
+#EXTINF:-1,USA: SEC Network
+http://leaderpro.pt:25461/live/lm/lm/28194.ts
+#EXTINF:-1,USA: SPIKE HD
+http://leaderpro.pt:25461/live/lm/lm/28225.ts
+#EXTINF:-1,USA: Smile Of A Child
+http://leaderpro.pt:25461/live/lm/lm/28168.ts
+#EXTINF:-1,USA: Sportsnet 360 HD
+http://leaderpro.pt:25461/live/lm/lm/28196.ts
+#EXTINF:-1,USA: Sports-Net
+http://leaderpro.pt:25461/live/lm/lm/28229.ts
+#EXTINF:-1,USA: Starz Comedy
+http://leaderpro.pt:25461/live/lm/lm/28118.ts
+#EXTINF:-1,USA: Starz Cinema
+http://leaderpro.pt:25461/live/lm/lm/28117.ts
+#EXTINF:-1,USA: STARZ EDGE HD
+http://leaderpro.pt:25461/live/lm/lm/28226.ts
+#EXTINF:-1,USA: Starz East
+http://leaderpro.pt:25461/live/lm/lm/28119.ts
+#EXTINF:-1,USA: SYFY HD
+http://leaderpro.pt:25461/live/lm/lm/28134.ts
+#EXTINF:-1,USA: Starz Encore
+http://leaderpro.pt:25461/live/lm/lm/28120.ts
+#EXTINF:-1,USA: Tennis Channel HD
+http://leaderpro.pt:25461/live/lm/lm/28121.ts
+#EXTINF:-1,USA: TBS HD
+http://leaderpro.pt:25461/live/lm/lm/28195.ts
+#EXTINF:-1,USA: THE FLORIDA CHANNEL
+http://leaderpro.pt:25461/live/lm/lm/28161.ts
+#EXTINF:-1,USA: TNT HD
+http://leaderpro.pt:25461/live/lm/lm/28135.ts
+#EXTINF:-1,USA: TLC HD
+http://leaderpro.pt:25461/live/lm/lm/28147.ts
+#EXTINF:-1,USA: Toon Kids
+http://leaderpro.pt:25461/live/lm/lm/28256.ts
+#EXTINF:-1,USA: TSN 4 HD
+http://leaderpro.pt:25461/live/lm/lm/28200.ts
+#EXTINF:-1,USA: TSN 3*
+http://leaderpro.pt:25461/live/lm/lm/28199.ts
+#EXTINF:-1,USA: TSN 1
+http://leaderpro.pt:25461/live/lm/lm/28197.ts
+#EXTINF:-1,USA: University of California TV
+http://leaderpro.pt:25461/live/lm/lm/28255.ts
+#EXTINF:-1,USA: UFC Fight pass
+http://leaderpro.pt:25461/live/lm/lm/28253.ts
+#EXTINF:-1,USA: USA Network HD
+http://leaderpro.pt:25461/live/lm/lm/28227.ts
+#EXTINF:-1,USA: VIP: BAYERN FC TV FHD
+http://leaderpro.pt:25461/live/lm/lm/28239.ts
+#EXTINF:-1,USA: VH1 Classic
+http://leaderpro.pt:25461/live/lm/lm/28167.ts
+#EXTINF:-1,USA: Versus HD
+http://leaderpro.pt:25461/live/lm/lm/28148.ts
+#EXTINF:-1,USA: WGN News Chicago
+http://leaderpro.pt:25461/live/lm/lm/28159.ts
+#EXTINF:-1,USA: WGN America HD
+http://leaderpro.pt:25461/live/lm/lm/28150.ts
+#EXTINF:-1,USA: WEATHERNATION
+http://leaderpro.pt:25461/live/lm/lm/28160.ts
+#EXTINF:-1,USA: WWE HD backup
+http://leaderpro.pt:25461/live/lm/lm/28237.ts
+#EXTINF:-1,USA: WWE HD
+http://leaderpro.pt:25461/live/lm/lm/28149.ts
+#EXTINF:-1,USA: YTV
+http://leaderpro.pt:25461/live/lm/lm/28157.ts
+#EXTINF:-1,USA: Yes Network
+http://leaderpro.pt:25461/live/lm/lm/28158.ts
+#EXTINF:-1,UK: 3E Ireland
+http://leaderpro.pt:25461/live/lm/lm/26297.ts
+#EXTINF:-1,UK: BBC News HD
+http://leaderpro.pt:25461/live/lm/lm/26314.ts
+#EXTINF:-1,UK: BBC 4 HD
+http://leaderpro.pt:25461/live/lm/lm/26315.ts
+#EXTINF:-1,UK: Baby TV
+http://leaderpro.pt:25461/live/lm/lm/26296.ts
+#EXTINF:-1,UK: BoomeRang
+http://leaderpro.pt:25461/live/lm/lm/26294.ts
+#EXTINF:-1,UK: BET Star
+http://leaderpro.pt:25461/live/lm/lm/26295.ts
+#EXTINF:-1,UK: Box Upfront
+http://leaderpro.pt:25461/live/lm/lm/26292.ts
+#EXTINF:-1,UK: Box Hits
+http://leaderpro.pt:25461/live/lm/lm/26293.ts
+#EXTINF:-1,UK: BT Sport 4 HD
+http://leaderpro.pt:25461/live/lm/lm/26279.ts
+#EXTINF:-1,UK: BT Sport 3 HD
+http://leaderpro.pt:25461/live/lm/lm/26282.ts
+#EXTINF:-1,UK: BT Sport 2 HD
+http://leaderpro.pt:25461/live/lm/lm/26283.ts
+#EXTINF:-1,UK: BT Sport 1 HD
+http://leaderpro.pt:25461/live/lm/lm/26284.ts
+#EXTINF:-1,UK: BT Sport Extra 5
+http://leaderpro.pt:25461/live/lm/lm/26278.ts
+#EXTINF:-1,UK: BT Sport Extra 3
+http://leaderpro.pt:25461/live/lm/lm/26280.ts
+#EXTINF:-1,UK: BT Sport ESPN HD
+http://leaderpro.pt:25461/live/lm/lm/26281.ts
+#EXTINF:-1,UK: CBS Action
+http://leaderpro.pt:25461/live/lm/lm/26276.ts
+#EXTINF:-1,UK: CBS Reality
+http://leaderpro.pt:25461/live/lm/lm/26274.ts
+#EXTINF:-1,UK: CBS Drama
+http://leaderpro.pt:25461/live/lm/lm/26275.ts
+#EXTINF:-1,UK: Cartoon Network
+http://leaderpro.pt:25461/live/lm/lm/26277.ts
+#EXTINF:-1,UK: CHANNEL 5
+http://leaderpro.pt:25461/live/lm/lm/26303.ts
+#EXTINF:-1,UK: Channel 4
+http://leaderpro.pt:25461/live/lm/lm/26304.ts
+#EXTINF:-1,UK: Channel AKA
+http://leaderpro.pt:25461/live/lm/lm/26302.ts
+#EXTINF:-1,UK: Chart Show TV
+http://leaderpro.pt:25461/live/lm/lm/26272.ts
+#EXTINF:-1,UK: Chart Show Hits
+http://leaderpro.pt:25461/live/lm/lm/26273.ts
+#EXTINF:-1,UK: Cinema Premiere
+http://leaderpro.pt:25461/live/lm/lm/26270.ts
+#EXTINF:-1,UK: China History Channel
+http://leaderpro.pt:25461/live/lm/lm/26271.ts
+#EXTINF:-1,UK: Comedy Central
+http://leaderpro.pt:25461/live/lm/lm/26268.ts
+#EXTINF:-1,UK: CLUB MTV
+http://leaderpro.pt:25461/live/lm/lm/26269.ts
+#EXTINF:-1,UK: Discovery History 1
+http://leaderpro.pt:25461/live/lm/lm/26265.ts
+#EXTINF:-1,UK: Discovery History
+http://leaderpro.pt:25461/live/lm/lm/26266.ts
+#EXTINF:-1,UK: Discovery Channel
+http://leaderpro.pt:25461/live/lm/lm/26267.ts
+#EXTINF:-1,UK: Disney Junior
+http://leaderpro.pt:25461/live/lm/lm/26264.ts
+#EXTINF:-1,UK: DW English
+http://leaderpro.pt:25461/live/lm/lm/26262.ts
+#EXTINF:-1,UK: DRAMA
+http://leaderpro.pt:25461/live/lm/lm/26263.ts
+#EXTINF:-1,UK: EDGE SPORT HD
+http://leaderpro.pt:25461/live/lm/lm/26260.ts
+#EXTINF:-1,UK: E!
+http://leaderpro.pt:25461/live/lm/lm/26261.ts
+#EXTINF:-1,UK: Eleven Sports 1 HD
+http://leaderpro.pt:25461/live/lm/lm/26258.ts
+#EXTINF:-1,UK: Eir Sport 1 HD
+http://leaderpro.pt:25461/live/lm/lm/26259.ts
+#EXTINF:-1,UK: Eleven Sports 2 HD
+http://leaderpro.pt:25461/live/lm/lm/26257.ts
